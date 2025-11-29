@@ -3,7 +3,7 @@
 This repository contains the implementation code for the paper: **"KAM-Net: Synergizing Kolmogorov-Arnold Networks and Mamba for Efficient Image Dehazing"** (submitted to *Electronics*).
 
 ## 📢 News
-- **[2025-11]**: The paper is currently under review.
+- **[2025-12]**: The paper is currently under review.
 - **[Update]**: Core model architecture code has been uploaded.
 
 ## 🚧 Code Availability
