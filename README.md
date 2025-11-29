@@ -1,6 +1,6 @@
-# KAM-Net: Kolmogorov-Arnold Mamba Network for Image Dehazing
+# KAM-Net: Synergizing Kolmogorov-Arnold Networks and Mamba for Efficient Image Dehazing
 
-This repository contains the implementation code for the paper: **"Targeting Real-Time 4K Dehazing: A Kolmogorov-Arnold Mamba Network"** (submitted to *Electronics*).
+This repository contains the implementation code for the paper: **"KAM-Net: Synergizing Kolmogorov-Arnold Networks and Mamba for Efficient Image Dehazing"** (submitted to *Electronics*).
 
 ## 📢 News
 - **[2025-11]**: The paper is currently under review.
